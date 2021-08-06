@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/system32
+Efour_bit_sipo_shiftregister
+Z0 w1620409878
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dG:/6th Semester/HDL/Assign3/4_bit_SIPO_Register
+Z4 8G:/6th Semester/HDL/Assign3/4_bit_SIPO_Register/Four_bit_SIPO_ShiftRegister.vhd
+Z5 FG:/6th Semester/HDL/Assign3/4_bit_SIPO_Register/Four_bit_SIPO_ShiftRegister.vhd
+l0
+L4 1
+VeBE9j9A?Gl[9g9PLZoRoS0
+!s100 3?00RV;3h0T:4=i26Ne=i3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1620409885
+!i10b 1
+Z8 !s108 1620409885.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|G:/6th Semester/HDL/Assign3/4_bit_SIPO_Register/Four_bit_SIPO_ShiftRegister.vhd|
+Z10 !s107 G:/6th Semester/HDL/Assign3/4_bit_SIPO_Register/Four_bit_SIPO_ShiftRegister.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehaviour
+R1
+R2
+DEx4 work 27 four_bit_sipo_shiftregister 0 22 eBE9j9A?Gl[9g9PLZoRoS0
+!i122 0
+l13
+L11 16
+V5n4PB]JIX3_e:j:PYA`AZ2
+!s100 T@QIljXYQ0jk593]JH8[W2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efour_bit_sipo_shiftregister_testbench
+Z13 w1620412225
+R1
+R2
+!i122 4
+R3
+Z14 8G:/6th Semester/HDL/Assign3/4_bit_SIPO_Register/Four_bit_SIPO_ShiftRegister_Testbench.vhd
+Z15 FG:/6th Semester/HDL/Assign3/4_bit_SIPO_Register/Four_bit_SIPO_ShiftRegister_Testbench.vhd
+l0
+L3 1
+V5ZmC02NGDTfJEO3JkcQRG3
+!s100 m1c^Q7RX5c:;AeHIaP]If1
+R6
+32
+Z16 !s110 1620412233
+!i10b 1
+Z17 !s108 1620412233.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|G:/6th Semester/HDL/Assign3/4_bit_SIPO_Register/Four_bit_SIPO_ShiftRegister_Testbench.vhd|
+Z19 !s107 G:/6th Semester/HDL/Assign3/4_bit_SIPO_Register/Four_bit_SIPO_ShiftRegister_Testbench.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+Z20 DEx4 work 37 four_bit_sipo_shiftregister_testbench 0 22 5ZmC02NGDTfJEO3JkcQRG3
+!i122 4
+l28
+Z21 L6 73
+VDh_`BaRR<8<A5hHW`MAbL2
+!s100 S;?ENco3dTz9cZT9GcV`=0
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
